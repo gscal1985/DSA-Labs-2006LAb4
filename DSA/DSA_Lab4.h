@@ -137,6 +137,7 @@ private:
 				cur = tmp;
 			}
 		}
+		//still working on this
 
 		// If the pivot data is the smallest element in the current list,
 		// pivot becomes the head
